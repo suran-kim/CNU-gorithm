@@ -17,11 +17,11 @@
 
 ## 스터디 참여 인원 👩‍💻
 - [김수란](https://github.com/suran-kim)
-- [김아영]()
+- [김아영](https://github.com/Kim-AYoung)
 - [문수정](https://github.com/moonstal1506)
 - [문승식](https://github.com/Moon-Co)
 - [박상균]()
-- [방소영]()
+- [방소영](https://github.com/blacklabf)
 - [우희원](https://github.com/H2W0N)
 - [정지호]()
 - [최시환](https://github.com/pum005)
@@ -47,16 +47,16 @@
 
 |  | <center>수란</center> |   <center>아영</center> | <center>수정</center> |  <center>승식</center> |   <center>상균</center> |  <center>소영</center> | <center>희원</center> |  <center>지호</center> |  <center>시환</center> |
 | :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- | 
-| <center>1주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>2주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>3주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>4주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>5주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>6주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>7주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>8주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>9주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>10주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
+| <center>1주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>2주</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>3주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>4주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>5주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>6주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>7주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>8주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>9주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>10주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
 ---
 ## 규칙 🧾
 - 일주일에 정해진 문제들은 가급적 모두 풀 수 있도록 노력합시다.
