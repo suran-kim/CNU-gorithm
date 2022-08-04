@@ -23,7 +23,7 @@
 - [박상균]()
 - [방소영](https://github.com/blacklabf)
 - [우희원](https://github.com/H2W0N)
-- [정지호]()
+- [정지호](https://github.com/CNU-Jiho-Jeong)
 - [최시환](https://github.com/pum005)
 
 ---
