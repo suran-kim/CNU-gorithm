@@ -61,6 +61,9 @@
 - 레포지토리를 `fork`하고 자신의 이름 폴더에 푼 문제들을 저장해주세요.
   - commit 메세지는 `이름: 내용`으로 통일합니다.
   - EX) `김수란: 백준 1103`
+  - fork한 레포지토리에 commit을 완료했다면 `pull request`를 보냅니다. 👉 [pull Request(PR)보내는 방법](https://chanhuiseok.github.io/posts/git-3/)
+  - PR 승인 권한은 참여인원 모두에게 있습니다! 다른 사람의 PR을 확인하고 메인 저장소에 merge 해봅시다.
+  - 위 과정은 협업 관리툴 사용에 익숙해지기 위함입니다. LGTM(Looks Good To Me) 혹은 다른 약어를 사용해 PR 메세지를 보내봅시다. 👉 [깃헙약어 참고](https://hidekuma.github.io/github/abbreviation/abbreviation/)
 - 문제 풀이 발표 시간에는
   - (1) 문제 번호
   - (2) 어떤 자료구조/알고리즘을 써야하는지
