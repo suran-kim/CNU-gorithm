@@ -4,12 +4,12 @@
 
 2022.08.09~
 
-매주 수요일 (시간 미정) 1시간 
+매주 수요일 (시간 미정) 2시간 
 
 ---
 ## 진행방식 📚
-- 매주 문제집에서 7문제를 정해서 푼다. 
-- 스터디원은 7문제 중 한 문제를 정해서 발표를 준비한다. 
+- 매주 문제집에서 9문제를 정해두고, 각자 풀고싶은 문제 7문제를 골라서 푼다.
+- 스터디원은 9문제 중 한 문제를 정해서 발표를 준비한다. 
 - 한 사람씩 돌아가면서 문제의 코드와 풀이 방식을 설명하고 질의응답한다. (제한시간 10분)
 - 마치기 전 다음 주 발표 문제를 1문제씩 배정한다.
 
@@ -17,9 +17,13 @@
 
 ## 스터디 참여 인원 👩‍💻
 - [김수란](https://github.com/suran-kim)
+- [김아영](https://github.com/Kim-AYoung)
 - [문수정](https://github.com/moonstal1506)
 - [문승식](https://github.com/Moon-Co)
+- [박상균](https://github.com/sanggyunbak2856)
+- [방소영](https://github.com/blacklabf)
 - [우희원](https://github.com/H2W0N)
+- [정지호](https://github.com/CNU-Jiho-Jeong)
 - [최시환](https://github.com/pum005)
 
 ---
@@ -41,22 +45,23 @@
 ---
 ## 발표 문제 🥇
 
-|  | <center>수란</center> |  <center>수정</center> |  <center>승식</center> |  <center>희원</center> |  <center>시환</center> |
-| :- |  :- |  :- |  :- |  :- |  :- | 
-| <center>1주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>2주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>3주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>4주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>5주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>6주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>7주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>8주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>9주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
-| <center>10주</center> | <center></center> |<center></center> |<center></center> |<center></center> |<center></center> |
+|  | <center>수란</center> |   <center>아영</center> | <center>수정</center> |  <center>승식</center> |   <center>상균</center> |  <center>소영</center> | <center>희원</center> |  <center>지호</center> |  <center>시환</center> |
+| :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- | 
+| <center>1주</center> | <center>[약수](https://www.acmicpc.net/problem/1037)</center> |<center>[소인수<br/>분해](https://www.acmicpc.net/problem/11653)</center> |<center>[모든<br/>순열](https://www.acmicpc.net/problem/10974)</center> |<center>[부분수열의<br/>합](https://www.acmicpc.net/problem/1182)</center> |<center>[골드바흐의<br/>추측](https://www.acmicpc.net/problem/9020)</center> |<center>[소수<br/>구하기](https://www.acmicpc.net/problem/1929)</center> |<center>[최대공약수와<br/>최소공배수](https://www.acmicpc.net/problem/2609)</center> |<center>[합](https://www.acmicpc.net/problem/8393)</center> |<center>[피보나치<br/>수2](https://www.acmicpc.net/problem/2748)</center> |
+| <center>2주</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>3주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>4주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>5주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>6주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>7주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>8주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>9주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>10주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
 ---
 ## 규칙 🧾
 - 일주일에 정해진 문제들은 가급적 모두 풀 수 있도록 노력합시다.
-- 문제가 7개인 이유는 하루에 한 문제씩 꾸준히 풀어보는 것을 권장하기 때문입니다.
+- 필수 문제가 7개인 이유는 본 스터디가 하루에 한 문제씩 꾸준히 푸는 것에 목적을 두기 때문입니다.
+  - 9문제를 전부 풀어도 전혀 문제 없습니다. 오히려 권장드립니다.
   - 만약 더 풀어보고싶다면 문서 상단의 '주제 && 문제집'에서 주차 별 문제집을 참고해서 풀어보도록 합시다! 
 - 레포지토리를 `fork`하고 자신의 이름 폴더에 푼 문제들을 저장해주세요.
   - commit 메세지는 `이름: 내용`으로 통일합니다.
@@ -67,7 +72,7 @@
 - 문제 풀이 발표 시간에는
   - (1) 문제 번호
   - (2) 어떤 자료구조/알고리즘을 써야하는지
-  - (3) 문제의 어떤 부분을 잘 읽어야 하는지 -> 문제의 실마리 잡기
+  - (3) 문제의 어떤 부분을 잘 읽어야 하는지 -> 문제의 실마리를 어디서 잡았나?
   - (4) 코드의 시간복잡도
   - (5) 코드의 공간복잡도를 중심으로 설명할 수 있도록 노력해봅시다! 😁
 - 힘들어도 포기하지 않고 꾸준히 진행해봅시다. 😉
