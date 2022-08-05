@@ -20,7 +20,7 @@
 - [김아영](https://github.com/Kim-AYoung)
 - [문수정](https://github.com/moonstal1506)
 - [문승식](https://github.com/Moon-Co)
-- [박상균]()
+- [박상균](https://github.com/sanggyunbak2856)
 - [방소영](https://github.com/blacklabf)
 - [우희원](https://github.com/H2W0N)
 - [정지호](https://github.com/CNU-Jiho-Jeong)
