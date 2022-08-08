@@ -20,7 +20,7 @@
 - [김아영](https://github.com/Kim-AYoung)
 - [문수정](https://github.com/moonstal1506)
 - [문승식](https://github.com/Moon-Co)
-- [박상균]()
+- [박상균](https://github.com/sanggyunbak2856)
 - [방소영](https://github.com/blacklabf)
 - [우희원](https://github.com/H2W0N)
 - [정지호](https://github.com/CNU-Jiho-Jeong)
@@ -47,7 +47,7 @@
 
 |  | <center>수란</center> |   <center>아영</center> | <center>수정</center> |  <center>승식</center> |   <center>상균</center> |  <center>소영</center> | <center>희원</center> |  <center>지호</center> |  <center>시환</center> |
 | :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- | 
-| <center>1주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>1주</center> | <center>[약수](https://www.acmicpc.net/problem/1037)</center> |<center>[소인수<br/>분해](https://www.acmicpc.net/problem/11653)</center> |<center>[모든<br/>순열](https://www.acmicpc.net/problem/10974)</center> |<center>[부분수열의<br/>합](https://www.acmicpc.net/problem/1182)</center> |<center>[골드바흐의<br/>추측](https://www.acmicpc.net/problem/9020)</center> |<center>[소수<br/>구하기](https://www.acmicpc.net/problem/1929)</center> |<center>[최대공약수와<br/>최소공배수](https://www.acmicpc.net/problem/2609)</center> |<center>[합](https://www.acmicpc.net/problem/8393)</center> |<center>[피보나치<br/>수2](https://www.acmicpc.net/problem/2748)</center> |
 | <center>2주</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
 | <center>3주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
 | <center>4주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
