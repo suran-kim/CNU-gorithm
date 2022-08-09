@@ -75,6 +75,11 @@
   - (3) 문제의 어떤 부분을 잘 읽어야 하는지 -> 문제의 실마리를 어디서 잡았나?
   - (4) 코드의 시간복잡도
   - (5) 코드의 공간복잡도를 중심으로 설명할 수 있도록 노력해봅시다! 😁
+  - 시간복잡도와 공간복잡도 참고 자료 <br/>
+     👉 [시간복잡도 계산 방법](https://410leehs.tistory.com/3)<br/>
+     👉 [[이것이 코딩테스트다] 시간복잡도와 공간복잡도](https://blog.chulgil.me/algorithm/)<br/>
+     👉 [시간복잡도 구하는 법 + 코딩 팁](https://mimimimamimimo.tistory.com/2)<br/>
+     👉 [알고리즘의 시간 복잡도와 Big-O 쉽게 이해하기](https://blog.chulgil.me/algorithm/)<br/>
 - 힘들어도 포기하지 않고 꾸준히 진행해봅시다. 😉
 - 스터디 구성과 커리큘럼 레퍼런스 
   - [덕고리즘](https://github.com/dev-dain/Dukgorithm)
