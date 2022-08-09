@@ -1,13 +1,16 @@
 # 피보나치 수 2
 
-def fibo(n) :
-    if n == 0 :
-        return 0
-    elif n == 1 :
-        return 1
-    elif n >= 2 :
-        return fibo(n-1) + fibo(n-2)
+cur, next = 0, 1
+for _ in range(int(input())) :
+    cur, next = next, cur + next
+print(cur)
 
+# 재귀함수이기 때문에 시간이 오래걸려 시간 초과
+# def fibo(n) :
+#     if n < 2 :
+#         return n
+#     else :
+#         return fibo(n-1) + fibo(n-2)
 
-n = int(input())
-print(fibo(n))
+# n = int(input())
+# print(fibo(int(input())))
