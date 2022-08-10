@@ -31,8 +31,8 @@
 | <center>주차</center> | <center>주제</center> | 
 | :---- | ------ |
 | 1 | 수학 (합공식/피보나치수/약수/최대공약수/최소공배수/소수) <br/> [문제집](https://www.acmicpc.net/workbook/view/8997) | 
-| 2 | 자료구조 (스택/큐/덱/힙) <br/> [문제집](https://www.acmicpc.net/workbook/view/8999) | 
-| 3 | 재귀함수의 이해 && 여러 가지 정렬 <br/> [문제집](https://www.acmicpc.net/workbook/view/9000) | 
+| 2 | 자료구조 (스택/큐/덱/힙) <br/>[11586](https://www.acmicpc.net/problem/11586), [11652](https://www.acmicpc.net/problem/11652), [프로그래머스 42587](https://school.programmers.co.kr/learn/courses/30/lessons/42587), [프로그래머스 42626](https://school.programmers.co.kr/learn/courses/30/lessons/42626) <br/> [문제집](https://www.acmicpc.net/workbook/view/8999) | 
+| 3 | 재귀함수의 이해 && 여러 가지 정렬 <br/> [문제집](https://www.acmicpc.net/workbook/view/9000)  | 
 | 4 | 다이나믹 프로그래밍 (DP) <br/> [문제집](https://www.acmicpc.net/workbook/view/9001) | 
 | 5 | 그래프 문제 && 기초 DFS와 BFS <br/> [문제집](https://www.acmicpc.net/workbook/view/9003) | 
 | 6 | DFS와 BFS 응용, 최단 경로 구하기 <br/> [백준 7576, 2178, 10026, 5014, 1916, 4485](https://www.acmicpc.net/workbook/view/8999) | 
