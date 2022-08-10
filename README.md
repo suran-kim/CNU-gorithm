@@ -83,10 +83,5 @@
      👉 [알고리즘의 시간 복잡도와 Big-O 쉽게 이해하기](https://blog.chulgil.me/algorithm/)<br/>
 - 힘들어도 포기하지 않고 꾸준히 진행해봅시다. 😉
 - 스터디 구성과 커리큘럼 레퍼런스 
-<<<<<<< HEAD
   - [덕고리즘](https://github.com/dev-dain/Dukgorithm)
   - [먹고 기도하고 코딩하라](https://dev-dain.tistory.com/155) 
-=======
-  - [덕고리즘](https://github.com/dev-dain/Dukgorithm) 
-  - [먹고 기도하고 코딩하라](https://dev-dain.tistory.com/155)
->>>>>>> 9cf2e9d8b5dd9baf4f8e801d87e02e34cd48082c
