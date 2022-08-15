@@ -65,6 +65,7 @@ package W2_6AC;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class Main {
     static int num;
@@ -103,22 +104,28 @@ public class Main {
                 if(rcount%2==1) {
                     index=backIndex;
                     add = -1;
-                    backIndex+=add;
                 }
                 else{
                     index = frontIndex;
                     add = 1;
-                    frontIndex+=add;
                 }
             }
             if(command[i].equals("D")){
                 result.add(index);
+                if(add==-1){
+                    backIndex+=add;
+                }
+                else{
+                    frontIndex+=add;
+                }
                 index+=add;
             }
         }
     }
     static void print() throws IOException {
-        System.out.println("result ="+result);
+        Collections.sort(result);
+        int commaCount = 0;
+        //System.out.println("result ="+result);
         int size = arrays.length;
         if(arrays[0] == ""){
             size-=1;
@@ -130,32 +137,41 @@ public class Main {
         bw.write("[");
         if(rcount%2==0) {
             for (int i = 0; i < arrays.length; i++) {
-                if (result.contains(i)) {
-                    continue;
-                } else {
-                    if(i!=arrays.length-1) {
-                        bw.write(arrays[i] + ",");
-                    }
-                    else{
-                        bw.write(arrays[i]);
+                if(!result.isEmpty()){
+                    if(result.get(0)==i){
+                        result.remove(0);
+                        continue;
                     }
                 }
+
+                if(commaCount == 0){
+                    bw.write(arrays[i]);
+                    commaCount++;
+                }
+                else{
+                    bw.write(","+arrays[i]);
+                }
+
+                }
             }
-        }
 
         if(rcount%2==1){
             for (int i = arrays.length-1; i >=0; i--) {
-                if(result.contains(i)){
-                    continue;
+                if(!result.isEmpty()) {
+                    if (i == result.get(result.size()-1)) {
+                        result.remove(result.size()-1);
+                        continue;
+                    }
+                }
+
+                if(commaCount == 0){
+                    bw.write(arrays[i]);
+                    commaCount++;
                 }
                 else{
-                    if(i!=0) {
-                        bw.write(arrays[i] + ",");
-                    }
-                    else{
-                        bw.write(arrays[i]);
-                    }
+                    bw.write(","+arrays[i]);
                 }
+
             }
         }
         bw.write("]");
@@ -165,4 +181,48 @@ public class Main {
 }
 ```
 
-틀렸다. 내일다시풀거임 진짜 뒤졌다
+처음에 출력과정에서 시간초과가 떠서 매우매우매우 애를 먹었다. 
+
+## 핵심 아이디어
+
+```java
+ for (int i = 0; i < command.length; i++) {
+            if(command[i].equals("R")){
+                rcount++;
+                if(rcount%2==1) {
+                    index=backIndex;
+                    add = -1;
+                }
+                else{
+                    index = frontIndex;
+                    add = 1;
+                }
+            }
+            if(command[i].equals("D")){
+                result.add(index);
+                if(add==-1){
+                    backIndex+=add;
+                }
+                else{
+                    frontIndex+=add;
+                }
+                index+=add;
+            }
+        }
+```
+
+타겟이 [1,2,3,4]라고 했을때, 지워야하는 인덱스를 넣은 result배열을 만들었다.
+
+backIndex는 뒤에서부터 시작하는 인덱스이고, (R이 홀수번 들어갔을 때)
+
+frontIndex는 앞에서부터 시작하는 인덱스이다.(R이 짝수번 들어갔을 떄)
+
+R을 넣으면 인덱스를 뒤집어주는 역할로 backIndex, frontIdex번갈아가면서 하는 그걸 방법을 사용.
+
+이렇게 result배열을 만들어준다.
+
+## 출력과정
+
+처음에는 result.contains를 사용했다가 시간초과가 떠서,
+
+for문 내부에 result.contains를 넣는게 아닌, result가 만들어지자마자 sort를 해버리고 양옆에서 데이터를 뽑으며 진행하는 방식으로 출력했다.
