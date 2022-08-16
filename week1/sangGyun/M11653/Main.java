@@ -1,4 +1,4 @@
-package algorithm.Math.M11653;
+package week1.sangGyun.M11653;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
