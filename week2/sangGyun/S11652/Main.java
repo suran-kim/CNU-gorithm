@@ -32,6 +32,13 @@ public class Main {
                 max_value = map.get(key);
                 max_key = key;
             }
+            if(map.get(key) == max_value) {
+                if(key > max_key) continue;
+                else {
+                    max_key = key;
+                    max_value = map.get(key);
+                }
+            }
         }
 
         bw.write(max_key + "\n");
