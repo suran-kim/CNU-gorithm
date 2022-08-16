@@ -45,18 +45,18 @@
 ---
 ## 발표 문제 🥇
 
-|  | <center>수란</center> |   <center>아영</center> | <center>수정</center> |  <center>승식</center> |   <center>상균</center> |  <center>소영</center> | <center>희원</center> |  <center>지호</center> |  <center>시환</center> |
-| :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- | 
+|  | <center>수란</center> |   <center>아영</center> | <center>수정</center> |  <center>승식</center> |   <center>상균</center>  | <center>희원</center> |  <center>지호</center> |  <center>시환</center> |
+| :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- | 
 | <center>1주</center> | <center>[약수](https://www.acmicpc.net/problem/1037)</center> |<center>[소인수<br/>분해](https://www.acmicpc.net/problem/11653)</center> |<center>[모든<br/>순열](https://www.acmicpc.net/problem/10974)</center> |<center>[부분수열의<br/>합](https://www.acmicpc.net/problem/1182)</center> |<center>[골드바흐의<br/>추측](https://www.acmicpc.net/problem/9020)</center> |<center>[소수<br/>구하기](https://www.acmicpc.net/problem/1929)</center> |<center>[최대공약수와<br/>최소공배수](https://www.acmicpc.net/problem/2609)</center> |<center>[합](https://www.acmicpc.net/problem/8393)</center> |<center>[피보나치<br/>수2](https://www.acmicpc.net/problem/2748)</center> |
-| <center>2주</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
-| <center>3주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
-| <center>4주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
-| <center>5주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
-| <center>6주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
-| <center>7주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
-| <center>8주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
-| <center>9주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
-| <center>10주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>2주</center> |<center>[괄호](https://www.acmicpc.net/problem/9012)</center> |<center>[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)</center> |<center>[큐](https://www.acmicpc.net/problem/10845)</center> |<center>[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)</center> |<center>[덱](https://www.acmicpc.net/problem/10866)</center> |<center>[후위표기식2](https://www.acmicpc.net/problem/1935)</center> |<center>[카드](https://www.acmicpc.net/problem/11652)</center> |<center>[절댓값힙](https://www.acmicpc.net/problem/11286)</center> |
+| <center>3주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>4주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>5주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>6주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>7주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>8주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>9주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>10주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
 ---
 ## 규칙 🧾
 - 일주일에 정해진 문제들은 가급적 모두 풀 수 있도록 노력합시다.
@@ -85,5 +85,3 @@
 - 스터디 구성과 커리큘럼 레퍼런스 
   - [덕고리즘](https://github.com/dev-dain/Dukgorithm)
   - [먹고 기도하고 코딩하라](https://dev-dain.tistory.com/155) 
-  
-  hacked by jiho
