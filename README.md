@@ -85,3 +85,5 @@
 - 스터디 구성과 커리큘럼 레퍼런스 
   - [덕고리즘](https://github.com/dev-dain/Dukgorithm)
   - [먹고 기도하고 코딩하라](https://dev-dain.tistory.com/155) 
+  
+  hacked by jiho
