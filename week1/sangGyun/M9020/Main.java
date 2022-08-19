@@ -1,4 +1,4 @@
-package algorithm.Math.M9020;
+package week1.sangGyun.M9020;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
