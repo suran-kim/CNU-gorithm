@@ -51,6 +51,7 @@ public class Main {
             // 초기화
             checklist = new ArrayList<>();
             list = new ArrayList<>();
+            bw.write("\n");
         }
 
         br.close();
