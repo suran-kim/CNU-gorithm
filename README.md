@@ -21,7 +21,6 @@
 - [문수정](https://github.com/moonstal1506)
 - [문승식](https://github.com/Moon-Co)
 - [박상균](https://github.com/sanggyunbak2856)
-- [방소영](https://github.com/blacklabf)
 - [우희원](https://github.com/H2W0N)
 - [정지호](https://github.com/CNU-Jiho-Jeong)
 - [최시환](https://github.com/pum005)
@@ -49,7 +48,7 @@
 | :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- | 
 | <center>1주</center> | <center>[약수](https://www.acmicpc.net/problem/1037)</center> |<center>[소인수<br/>분해](https://www.acmicpc.net/problem/11653)</center> |<center>[모든<br/>순열](https://www.acmicpc.net/problem/10974)</center> |<center>[부분수열의<br/>합](https://www.acmicpc.net/problem/1182)</center> |<center>[골드바흐의<br/>추측](https://www.acmicpc.net/problem/9020)</center> |<center>[소수<br/>구하기](https://www.acmicpc.net/problem/1929)</center> |<center>[최대공약수와<br/>최소공배수](https://www.acmicpc.net/problem/2609)</center> |<center>[합](https://www.acmicpc.net/problem/8393)</center> |<center>[피보나치<br/>수2](https://www.acmicpc.net/problem/2748)</center> |
 | <center>2주</center> |<center>[괄호](https://www.acmicpc.net/problem/9012)</center> |<center>[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)</center> |<center>[큐](https://www.acmicpc.net/problem/10845)</center> |<center>[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)</center> |<center>[덱](https://www.acmicpc.net/problem/10866)</center> |<center>[후위표기식2](https://www.acmicpc.net/problem/1935)</center> |<center>[카드](https://www.acmicpc.net/problem/11652)</center> |<center>[절댓값힙](https://www.acmicpc.net/problem/11286)</center> |
-| <center>3주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+| <center>3주</center> | <center>[중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)</center> |<center>[실질적 약수](https://www.acmicpc.net/problem/2247)</center> |<center>[좌표 압축](https://www.acmicpc.net/problem/18870)</center> |<center>[재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)</center> |<center>[로또](https://www.acmicpc.net/problem/6603)</center> |<center>[하노이 탑](https://www.acmicpc.net/problem/1914)</center> |<center>[나이순 정렬](https://www.acmicpc.net/problem/10814)</center> |<center>[시리얼 번호](https://www.acmicpc.net/problem/1431)</center> |
 | <center>4주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
 | <center>5주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
 | <center>6주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
