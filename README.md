@@ -44,18 +44,24 @@
 ---
 ## 발표 문제 🥇
 
-|  | <center>수란</center> |   <center>아영</center> | <center>수정</center> |  <center>승식</center> |   <center>상균</center>  | <center>희원</center> |  <center>지호</center> |  <center>시환</center> |
-| :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- |  :- | 
-| <center>1주</center> | <center>[약수](https://www.acmicpc.net/problem/1037)</center> |<center>[소인수<br/>분해](https://www.acmicpc.net/problem/11653)</center> |<center>[모든<br/>순열](https://www.acmicpc.net/problem/10974)</center> |<center>[부분수열의<br/>합](https://www.acmicpc.net/problem/1182)</center> |<center>[골드바흐의<br/>추측](https://www.acmicpc.net/problem/9020)</center> |<center>[소수<br/>구하기](https://www.acmicpc.net/problem/1929)</center> |<center>[최대공약수와<br/>최소공배수](https://www.acmicpc.net/problem/2609)</center> |<center>[합](https://www.acmicpc.net/problem/8393)</center> |<center>[피보나치<br/>수2](https://www.acmicpc.net/problem/2748)</center> |
-| <center>2주</center> |<center>[괄호](https://www.acmicpc.net/problem/9012)</center> |<center>[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)</center> |<center>[큐](https://www.acmicpc.net/problem/10845)</center> |<center>[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)</center> |<center>[덱](https://www.acmicpc.net/problem/10866)</center> |<center>[후위표기식2](https://www.acmicpc.net/problem/1935)</center> |<center>[카드](https://www.acmicpc.net/problem/11652)</center> |<center>[절댓값힙](https://www.acmicpc.net/problem/11286)</center> |
-| <center>3주</center> | <center>[중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)</center> |<center>[실질적 약수](https://www.acmicpc.net/problem/2247)</center> |<center>[좌표 압축](https://www.acmicpc.net/problem/18870)</center> |<center>[재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)</center> |<center>[로또](https://www.acmicpc.net/problem/6603)</center> |<center>[하노이 탑](https://www.acmicpc.net/problem/1914)</center> |<center>[나이순 정렬](https://www.acmicpc.net/problem/10814)</center> |<center>[시리얼 번호](https://www.acmicpc.net/problem/1431)</center> |
-| <center>4주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
-| <center>5주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
-| <center>6주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
-| <center>7주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
-| <center>8주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
-| <center>9주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
-| <center>10주</center> | <center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |<center>[]()</center> |
+|  | <center>수란</center> | <center>아영</center> | <center>수정</center> | <center>승식</center> | <center>상균</center> | <center>희원</center> | <center>지호</center> | <center>시환</center> |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <center>1주</center> | <center>약수</center> | <center>소인수<br/>분해</center> | <center>모든<br/>순열</center> | <center>부분수열의<br/>합</center> | <center>골드바흐의<br/>추측</center> | <center>소수<br/>구하기</center> | <center>최대공약수와<br/>최소공배수</center> | <center>합</center> |
+| <center>2주</center> | <center>괄호</center> | <center>더 맵게</center> | <center>큐</center> | <center>프린터</center> | <center>덱</center> | <center>후위표기식2</center> | <center>카드</center> | <center>절댓값힙</center> |
+| <center>3주</center> | <center>중복 빼고 정렬하기</center> | <center>실질적 약수</center> | <center>좌표 압축</center> | <center>재귀함수가 뭔가요?</center> | <center>로또</center> | <center>하노이 탑</center> | <center>나이순 정렬</center> | <center>시리얼 번호</center> |
+| <center>4주</center> | <center>정수삼각형</center> | <center>2xn 타일링 2</center> | <center>가장 긴 증가하는 부분 수열</center> | <center>이친수</center> | <center>포도주 시식</center> | <center>평범한 배낭</center> | <center>연속합</center> | <center>1로 만들기</center> |
+| <center>5주</center> | <center>결혼식</center> | <center>순열 사이클</center> | <center>연결 요소의 개수</center> | <center>섬의 개수</center> | <center>유기농 배추</center> | <center>단지번호붙이기</center> | <center>트리 순회</center> | <center>DFS와 BFS</center> |
+| <center>6주</center> |  |  |  |  |  |  |  |  |
+| <center>7주</center> |  |  |  |  |  |  |  |  |
+| <center>8주</center> |  |  |  |  |  |  |  |  |
+| <center>9주</center> |  |  |  |  |  |  |  |  |
+| <center>10주</center> |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+
+
 ---
 ## 규칙 🧾
 - 일주일에 정해진 문제들은 가급적 모두 풀 수 있도록 노력합시다.
@@ -66,8 +72,8 @@
   - commit 메세지는 `이름: 내용`으로 통일합니다.
   - EX) `김수란: 백준 1103`
   - fork한 레포지토리에 commit을 완료했다면 `pull request`를 보냅니다. 👉 [pull Request(PR)보내는 방법](https://chanhuiseok.github.io/posts/git-3/)
-  - PR 승인 권한은 참여인원 모두에게 있습니다! 다른 사람의 PR을 확인하고 메인 저장소에 merge 해봅시다.
-  - 위 과정은 협업 관리툴 사용에 익숙해지기 위함입니다. LGTM(Looks Good To Me) 혹은 다른 약어를 사용해 PR 메세지를 보내봅시다. 👉 [깃헙약어 참고](https://hidekuma.github.io/github/abbreviation/abbreviation/)
+  - PR 승인 권한은 참여인원 모두에게 있습니다! PR을 날리고 메인 저장소에 merge 해봅시다.
+
 - 문제 풀이 발표 시간에는
   - (1) 문제 번호
   - (2) 어떤 자료구조/알고리즘을 써야하는지
